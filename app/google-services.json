@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "57094807556",
+    "firebase_url": "https://fir-5ab98.firebaseio.com",
+    "project_id": "fir-5ab98",
+    "storage_bucket": "fir-5ab98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57094807556:android:43e1fc1835938b9d95d551",
+        "android_client_info": {
+          "package_name": "com.almightymm.blogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57094807556-curapq0uritp6nrjkbbvs6b2lk37gno8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS582n0E2YNB2ciTZDup4gBsVidM8XXpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57094807556-curapq0uritp6nrjkbbvs6b2lk37gno8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
